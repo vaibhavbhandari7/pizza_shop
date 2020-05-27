@@ -1,0 +1,25 @@
+.pageHeader nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+
+  .pageHeader ul {
+    display: flex;
+    order: 1;
+    width: 100%;
+    margin-top: 15px;
+  }
+   
+  @media screen and (min-width: 550px) {
+    .pageHeader ul {
+      width: auto;
+      margin-top: 0;
+    }
+   
+    .pageHeader .cta-contact {
+      order: 1;
+    }
+  }

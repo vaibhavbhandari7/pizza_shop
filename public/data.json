@@ -1,0 +1,23 @@
+[
+    {
+        id: 1,
+        name: "Margherita",
+        description: "Classic delight with 100% real mozzarella cheese",
+        price: 199,
+        quantity: 2
+    },
+    {
+        id: 2,
+        name: "Farmhouse",
+        description: "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        price: 395,
+        quantity: 1
+    },
+    {
+        id: 3,
+        name: "Cheese n Corn",
+        description: "A delectable combination of sweet & juicy golden corn",
+        price: 305,
+        quantity: 0
+    }
+]
